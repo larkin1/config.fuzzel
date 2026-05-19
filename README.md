@@ -1,3 +1,3 @@
-# Rofi configuration
+# fuzzel configuration
 
-basically just a simple, decent looking catppuccin config for rofi.
+basically just a simple, decent looking catppuccin config for fuzzel.
